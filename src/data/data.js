@@ -8,5 +8,15 @@ export const data = [
         "date": "August 11th, 2020",
         "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec quis turpis tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tincidunt viverra ullamcorper. Vestibulum id rhoncus mauris, vestibulum fringilla felis. Fusce eget eros diam. In gravida dolor at ex aliquet, eu condimentum nibh efficitur. Proin eleifend ligula non dictum suscipit. Cras vel vestibulum nisl. Nulla faucibus dapibus sapien.",
         "image": require("./../images/DialogCapture.PNG")
+    },
+    {
+        "date": "August 11th, 2020",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec quis turpis tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tincidunt viverra ullamcorper. Vestibulum id rhoncus mauris, vestibulum fringilla felis. Fusce eget eros diam. In gravida dolor at ex aliquet, eu condimentum nibh efficitur. Proin eleifend ligula non dictum suscipit. Cras vel vestibulum nisl. Nulla faucibus dapibus sapien.",
+        "image": require("./../images/DialogCapture.PNG")
+    },
+    {
+        "date": "August 11th, 2020",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec quis turpis tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tincidunt viverra ullamcorper. Vestibulum id rhoncus mauris, vestibulum fringilla felis. Fusce eget eros diam. In gravida dolor at ex aliquet, eu condimentum nibh efficitur. Proin eleifend ligula non dictum suscipit. Cras vel vestibulum nisl. Nulla faucibus dapibus sapien.",
+        "image": require("./../images/DialogCapture.PNG")
     }
 ]

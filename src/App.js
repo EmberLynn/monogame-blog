@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import './App.css';
 import { data } from './data/data'
 import CardComponent from './CardComponent/CardComponent'
+import SideBarCompnenet from './SideBarComponent/SideBarComponent'
 
 class App extends Component {
   
@@ -12,7 +13,7 @@ class App extends Component {
       {data.map((data) => {
         return <CardComponent
           content={data.content}
-          image={data.image}/>
+          image={data.image }/>
       })}
     </div>
   );
@@ -20,6 +21,7 @@ class App extends Component {
     return (
       <div className="App">
         <h1>Hello World</h1>
+        <SideBarCompnenet/>
         {jsondata}
       </div>
     );

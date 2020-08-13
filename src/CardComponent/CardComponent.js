@@ -10,7 +10,7 @@ const cardComponent = (props) => {
       boxShadow: '5px 5px 4px #999999',
       padding: '8px',
       width: '50%',
-      margin: '16px auto'
+      margin: '16px auto',
     }
     
     return(
