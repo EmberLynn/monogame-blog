@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import './App.css';
-//import data from './data/data.json'
 import { data } from './data/data'
+import CardComponent from './CardComponent/CardComponent'
 
 class App extends Component {
   
@@ -10,7 +10,9 @@ class App extends Component {
   let jsondata = (
     <div>
       {data.map((data) => {
-        return <div><p>{data.content}</p><img src={data.image} alt="Something"/></div>
+        return <CardComponent
+          content={data.content}
+          image={data.image}/>
       })}
     </div>
   );
