@@ -9,6 +9,7 @@
     margin: 16px auto;
     position: absolute;
     left: 30px;
+    opacity: 0.9;
 }
        
 @media screen and (max-width: 1250px) {

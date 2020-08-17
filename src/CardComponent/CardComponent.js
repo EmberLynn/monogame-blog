@@ -11,6 +11,7 @@ const cardComponent = (props) => {
       padding: '8px',
       width: '50%',
       margin: '16px auto',
+      opacity: '0.9'
     }
     
     return(

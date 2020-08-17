@@ -13,7 +13,7 @@ class App extends Component {
       {data.map((data) => {
         return <CardComponent
           content={data.content}
-          image={data.image }/>
+          image={data.image}/>
       })}
     </div>
   );
