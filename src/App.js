@@ -20,7 +20,7 @@ class App extends Component {
 
     return (
       <div className="App">
-        <h1>Hello World</h1>
+        <img src={require("./images/banner.png")} alt="Banner" width="100%"></img>
         <SideBarCompnenet/>
         {jsondata}
       </div>
